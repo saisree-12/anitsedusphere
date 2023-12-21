@@ -87,13 +87,13 @@ const Fpassword = () => {
                   <br></br>
                   <br></br>
                   <br></br>
-                  Need help? Contact support.</p>
+                  Need help? Contact support...</p>
                 </div>
               </div>
             </div>
           </div>
         </div>
-      </div>
+      </div> 
     </section>
     <Modal show = {toggle} msg = {msg} title = {'Inspect Your Email'} change = {toggleShow}></Modal>
     </>
